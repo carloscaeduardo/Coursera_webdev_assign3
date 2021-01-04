@@ -1,0 +1,53 @@
+/* Body */
+body{
+	background-color:#ffffcc;
+
+}
+
+/* Header */
+.navbar{
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+.brand-wrapper{
+	padding-left: 5%;
+}
+.navbar-dark .navbar-toggler {
+    margin-right: 10px;
+}
+
+.navbar-collapse{
+	background-color: blue;
+}
+
+.nav-item {
+	border: 2px solid #343a40;
+	text-align: center;
+}
+
+
+/* Content */
+.page-title{
+	padding: 10px;
+}
+
+.content-box{
+	 background-color: #343a40;
+	 padding: 15px;
+	 margin-bottom: 15px;
+	 border: 2px solid black;
+	 color: white;
+
+}
+
+.back-to-top {
+	color: black;
+
+}
+.back-to-top:hover{
+	color:gray;
+}
+
+
+/* Footer */
